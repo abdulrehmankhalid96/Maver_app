@@ -1,0 +1,13 @@
+.ContantSection{
+  height: 90vh;
+  border: 1px solid black;
+  overflow-y: scroll;
+}
+.chatSection{
+  height: 80vh;
+  border: 1px solid black;
+}
+.sendmessage{
+  height: 9vh;
+  border: 1px solid black;
+}
